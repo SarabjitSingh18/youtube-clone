@@ -49,7 +49,7 @@ nav {
 }
 @media (max-width:900px) {
     .menu-icon{
-        display: none;
+        display: block;
     }
   
     .nav-right img{

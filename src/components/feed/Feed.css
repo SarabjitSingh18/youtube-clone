@@ -4,6 +4,8 @@
     grid-column-gap: 16px;
     grid-row-gap: 30px;
     margin-top: 15px;
+   
+
 }
 .card img{
     width: 100%;
@@ -23,4 +25,9 @@
 }
 .card p{
     font-size: 14px;
+}
+@media (max-width:600px) {
+ 
+    
+   
 }

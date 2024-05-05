@@ -65,8 +65,16 @@
     padding-bottom: 2px;
     border-bottom: 3px solid red;
 }
-@media (max-width:900px) {
+@media (max-width:600px) {
     .sidebar{
-        display: none;
+        background-color: white;
+        color: black;
+        width: 40%;
+       
     }
+   .small-sidebar{
+    display: none;
+   }
+    
+   
 }
